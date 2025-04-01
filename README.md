@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Guni</h1>
 <h3 align="center">A passionate Game Developer & Student Web Developer at Conestoga</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeGuni&label=Profile%20views&color=0e75b6&style=flat" alt="guni" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeGuni&label=Profile%20views&color=0e75b6&style=flat" alt="guni" /> </p>
 
 - 🎮 **Game Development Enthusiast** | **Web Dev Student**
-- 🔭 I’m currently studying at **Conestoga College**
+- 🔭 I’m currently studying at **Conestoga College** 🏫
 - 💻 I have experience in **Unity (C#), Unreal Engine (Blueprints & C++), JavaScript, React, and Node.js**
 - 🌱 I’m currently improving my **game physics & multiplayer networking skills**
-- 🏆 Competitive Gamer | Dota 2 Mid Player (Outworld Destroyer & Viper)
+- 🏆 Competitive Gamer | Dota 2 Mid Player (Mastering Outworld Destroyer & Viper chaos)
 - 📫 How to reach me **info@guni.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunpreet-singh" height="30" width="40" /></a>
-
 <a href="https://instagram.com/guni_2519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunpreet_singh" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +28,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGuni&show_icons=true&locale=en&layout=compact" alt="guni" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeGuni&show_icons=true&locale=en" alt="guni" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeGuni&show_icons=true&locale=en&count_private=true&include_all_commits=true&layout=compact" alt="guni" /></p>
