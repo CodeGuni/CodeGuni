@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guni&label=Profile%20views&color=0e75b6&style=flat" alt="guni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeGuni&label=Profile%20views&color=0e75b6&style=flat" alt="guni" /> </p>
 
 - 🎮 **Game Development Enthusiast** | **Web Dev Student**
 - 🔭 I’m currently studying at **Conestoga College**
