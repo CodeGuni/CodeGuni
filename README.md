@@ -105,22 +105,20 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeGuni&theme=transparent"
     alt="CodeGuni GitHub stats"
+    height="180"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeGuni&theme=transparent"
     alt="Most used languages by commits"
+    height="180"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeGuni&theme=transparent&utcOffset=-5"
     alt="Productive time (local timezone)"
+    height="180"
   />
 </p>
+
 
 ---
 
