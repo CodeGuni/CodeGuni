@@ -80,12 +80,19 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeGuni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="CodeGuni GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CodeGuni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    alt="CodeGuni GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGuni&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGuni&show_icons=true&layout=compact&hide_border=true&theme=transparent"
+    alt="Top languages"
+  />
 </p>
+
 
 ---
 
